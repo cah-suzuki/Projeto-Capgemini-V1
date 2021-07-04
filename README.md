@@ -5,7 +5,7 @@ Projeto Divulga tudo -
 Capgemini
 </h1>
 
-##License
+## License
 https://github.com/cah-suzuki/Projeto-Capgemini-V1/blob/master/LICENSE
 
 ## Sobre 📄
